@@ -1,0 +1,53 @@
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Hospital management system.dll.config
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Hospital management system.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Hospital management system.pdb
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\AjaxControlToolkit.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Antlr3.Runtime.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\EntityFramework.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\EntityFramework.SqlServer.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Newtonsoft.Json.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Owin.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\System.Web.Optimization.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\System.Web.Providers.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\WebGrease.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\System.Web.Optimization.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Antlr3.Runtime.pdb
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Newtonsoft.Json.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\EntityFramework.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\EntityFramework.SqlServer.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\System.Web.Providers.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojResolveAssemblyReference.cache
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\obj\Debug\Hospital management system.dll
+C:\Users\Darshan\documents\visual studio 2013\Projects\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
